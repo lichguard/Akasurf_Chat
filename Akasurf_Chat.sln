@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Akasurf_Chat_Server", "Akasurf_Chat\Akasurf_Chat_Server.csproj", "{C2281514-C366-4080-B67E-882DD32E860C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkaSurf_Chat_Client", "AkaSurf_Chat_Client\AkaSurf_Chat_Client.csproj", "{F5F37E36-311E-4D70-BC2E-29B497A9DCC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2281514-C366-4080-B67E-882DD32E860C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2281514-C366-4080-B67E-882DD32E860C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2281514-C366-4080-B67E-882DD32E860C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2281514-C366-4080-B67E-882DD32E860C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F37E36-311E-4D70-BC2E-29B497A9DCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F37E36-311E-4D70-BC2E-29B497A9DCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F37E36-311E-4D70-BC2E-29B497A9DCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F37E36-311E-4D70-BC2E-29B497A9DCC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
